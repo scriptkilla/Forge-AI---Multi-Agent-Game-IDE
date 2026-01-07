@@ -1,0 +1,5 @@
+{
+  "name": "Forge AI - Multi-Agent Game IDE",
+  "description": "A collaborative multi-agent environment where AI agents (CEO, Designer, Art, Dev, QA) work together to design and build playable browser games based on your prompts.",
+  "requestFramePermissions": []
+}
